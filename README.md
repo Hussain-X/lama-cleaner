@@ -49,6 +49,7 @@ https://user-images.githubusercontent.com/3998421/196976498-ba1ad3ab-fa18-4c55-9
 ## Quick Start
 
 Lama Cleaner make it easy to use SOTA AI model in just two commands:
+The easiest way to install Lama Cleaner is to install it via pip(support python 3.7 ~ 3.10).
 
 ```bash
 # In order to use the GPU, install cuda version of pytorch first.
